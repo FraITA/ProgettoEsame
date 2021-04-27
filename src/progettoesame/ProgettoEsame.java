@@ -16,6 +16,7 @@ public class ProgettoEsame {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Già è qualcosa");
+		
 	}
 	
 }
